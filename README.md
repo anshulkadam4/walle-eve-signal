@@ -86,3 +86,7 @@ I have attached screenshots here
 
 <img width="807" height="168" alt="Screenshot 2026-10-15 at 7 39 15 PM" src="https://github.com/user-attachments/assets/7ad5895d-2811-4e4a-87a7-93556160e6da" />
 
+5.Visualization
+
+<img width="442" height="330" alt="Screenshot 2026-10-15 at 8 39 32 PM" src="https://github.com/user-attachments/assets/e86928e0-3539-4814-9e1c-82d861847b73" />
+
